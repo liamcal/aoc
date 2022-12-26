@@ -1,0 +1,3 @@
+// Exclude input/output files
+*.txt
+*.dump
